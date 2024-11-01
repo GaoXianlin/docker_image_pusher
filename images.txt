@@ -1,1 +1,1 @@
-docker.io/library/node:20.14.0-alpine
+milvusdb/milvus:v2.4.3

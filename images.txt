@@ -1,1 +1,1 @@
-langgenius/dify-sandbox:0.2.10
+docker.io/library/node:20.14.0-alpine

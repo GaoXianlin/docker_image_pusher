@@ -1,5 +1,1 @@
-langgenius/dify-api:1.0.0
-langgenius/dify-web:1.0.0
-langgenius/dify-plugin-daemon:0.0.1-local
-certbot/certbot
-langgenius/qdrant:v1.7.3
+vllm/vllm-openai:latest

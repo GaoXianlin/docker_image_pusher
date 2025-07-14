@@ -1,2 +1,1 @@
-langgenius/dify-api:1.6.0
-langgenius/dify-web:1.6.0
+atlassian/jira-software:8.16.1

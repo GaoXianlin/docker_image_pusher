@@ -1,1 +1,6 @@
-atlassian/jira-software:9.7.0
+atlassian/jira-software:9.8.0
+atlassian/jira-software:9.9.0
+atlassian/jira-software:9.10.0
+atlassian/jira-software:9.11.0
+atlassian/jira-software:9.12.0
+

@@ -1,10 +1,2 @@
-mysql:8.0.39
-quay.io/minio/minio:RELEASE.2025-06-13T11-33-47Z
-valkey/valkey:8
-infiniflow/ragflow:v0.19.1-slim
-elasticsearch:8.11.3
-hub.icert.top/opensearchproject/opensearch:2.19.1
-infiniflow/infinity:v0.6.0-dev3
-infiniflow/sandbox-executor-manager:latest
-infiniflow/sandbox-base-python:latest
-infiniflow/sandbox-base-nodejs:latest
+minio/minio:RELEASE.2024-05-28T17-19-04Z
+milvusdb/milvus:v2.5.15

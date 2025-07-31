@@ -1,1 +1,1 @@
-hiyouga/llamafactory:latest
+hiyouga/llamafactory:0.9.3

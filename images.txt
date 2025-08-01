@@ -1,1 +1,3 @@
-ghcr.io/conardli/easy-dataset
+langgenius/dify-api:1.7.1
+langgenius/dify-web:1.7.1
+langgenius/dify-plugin-daemon:0.2.0-local

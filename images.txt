@@ -1,2 +1,4 @@
-langgenius/dify-api:1.7.2
-langgenius/dify-web:1.7.2
+langgenius/dify-api:1.8.0
+langgenius/dify-web:1.8.0
+langgenius/dify-sandbox:0.2.12
+langgenius/dify-plugin-daemon:0.2.0-local

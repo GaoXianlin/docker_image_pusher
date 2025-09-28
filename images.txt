@@ -1,4 +1,2 @@
-langgenius/dify-api:1.9.0
-langgenius/dify-web:1.9.0
-langgenius/dify-sandbox:0.2.12
-langgenius/dify-plugin-daemon:0.3.0-local
+infiniflow/infinity:v0.6.0-dev5
+infiniflow/sandbox-executor-manager:latest

@@ -1,2 +1,1 @@
-infiniflow/infinity:v0.6.0-dev5
-infiniflow/sandbox-executor-manager:latest
+infiniflow/ragflow:v0.20.5-slim

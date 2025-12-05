@@ -1,8 +1,2 @@
-langgenius/dify-api:1.10.0
-langgenius/dify-web:1.10.0
-langgenius/dify-sandbox:0.2.12
-langgenius/dify-plugin-daemon:0.4.1-local
-
-
-langgenius/dify-api:1.10.1
-langgenius/dify-web:1.10.1
+minio/minio:RELEASE.2024-12-18T13-15-44Z
+milvusdb/milvus:v2.6.7

@@ -1,3 +1,1 @@
-langgenius/qdrant:v1.7.3
-milvusdb/milvus:v2.6.3
-busybox:latest
+otel/opentelemetry-collector-contrib:0.128.0

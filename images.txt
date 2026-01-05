@@ -1,1 +1,1 @@
-otel/opentelemetry-collector-contrib:0.128.0
+vllm/vllm-openai:v0.13.0

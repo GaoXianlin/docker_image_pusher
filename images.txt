@@ -1,1 +1,1 @@
-vllm/vllm-openai:v0.13.0
+registry.cn-hangzhou.aliyuncs.com/xprobe_xinference/xinference:latest

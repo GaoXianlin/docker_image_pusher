@@ -1,1 +1,1 @@
-docker.litellm.ai/berriai/litellm:main-stable
+vllm/vllm-openai:gptoss

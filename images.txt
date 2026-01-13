@@ -1,1 +1,1 @@
-vllm/vllm-openai:gptoss
+tutelgroup/deepseek-671b:a100x8-chat-20251222

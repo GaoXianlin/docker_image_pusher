@@ -1,1 +1,1 @@
-tutelgroup/deepseek-671b:a100x8-chat-20251222
+xprobe/xinference:v2.0.0

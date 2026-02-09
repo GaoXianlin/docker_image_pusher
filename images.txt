@@ -1,1 +1,1 @@
-docker pull ollama/ollama:0.15.6
+ollama/ollama:0.15.6

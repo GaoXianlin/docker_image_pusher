@@ -1,4 +1,1 @@
-ubuntu:22.04
-ubuntu:26.04
-ubuntu:jammy
-ubuntu:jammy-20260210.1
+lmsysorg/sglang:latest

@@ -1,1 +1,1 @@
-vllm/vllm-openai:latest
+--platform linux/arm64 ubuntu:24.04

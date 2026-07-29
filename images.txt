@@ -1,4 +1,3 @@
-quay.io/coreos/etcd:v3.5.5
-minio/minio:RELEASE.2024-10-13T13-34-11Z
-milvusdb/milvus:v2.4.13
-zilliz/attu:v2.4
+python:3.12-slim
+node:20-alpine
+nginx:alpine

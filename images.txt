@@ -1,1 +1,2 @@
-lazymio/vllm-backport:latest-sm80
+lightseekorg/tokenspeed-runner:cu129-torch-2.13.0-flashinfer-0.6.18
+lightseekorg/tokenspeed-runner:cu129-torch-2.13.0

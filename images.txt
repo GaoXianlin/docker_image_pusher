@@ -1,1 +1,1 @@
-ghcr.io/ggml-org/llama.cpp:full-cuda-b10909
+ghcr.io/ggml-org/llama.cpp:server

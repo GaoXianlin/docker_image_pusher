@@ -1,2 +1,1 @@
-xprobe/xinference:latest-cu129
-xprobe/xinference:v4.0.0
+vllm/vllm-openai:cu134-nightly-x86_64

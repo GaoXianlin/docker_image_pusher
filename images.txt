@@ -1,1 +1,1 @@
-vllm/vllm-openai:cu134-nightly-x86_64
+vllm/vllm-openai:qwen38
